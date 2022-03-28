@@ -1,2 +1,2 @@
 # Data-analysis
- Code that organizes the table and generates a descriptive statistics & graphics
+ Code that organizes a table to answer a few questions about Business License in Langley city - BC/CA.
